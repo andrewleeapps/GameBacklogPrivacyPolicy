@@ -5,13 +5,13 @@ All game info is stored on your phone storage.
 
 ## App Permissions
 
-  ### Camera
+### Camera
   
-  The camera is used to take photos of your games. No images are ever collected or used by us.
+The camera is used to take photos of your games. No images are ever collected or used by us.
   
-  ### Storage (Read and write external storage)
+### Storage (Read and write external storage)
   
-  Images taken with the camera are saved onto external storage. Again, none of these images are ever collected or used by us.
+Images taken with the camera are saved onto external storage. Again, none of these images are ever collected or used by us.
   
   
   
